@@ -1,0 +1,115 @@
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\bin\Debug\Decision_Finger.exe.config
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\bin\Debug\Decision_Finger.exe
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\bin\Debug\Decision_Finger.pdb
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\bin\Debug\Decision_Finger.xml
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.vbprojAssemblyReference.cache
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Form1.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Resources.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Registeration2.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Registration.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.signup.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.vbproj.GenerateResource.cache
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.vbproj.CoreCompileInputs.cache
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.exe
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.xml
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.pdb
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.adminloginreg.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.regphno.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Votingverification.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Thanksforvoting.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.voting_page.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.purpose.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Results.resources
+C:\Users\Rithish Shetty\source\repos\Decision_Finger\obj\Debug\Decision_Finger.Validation.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\bin\Debug\Decision_Finger.exe.config
+D:\PROJECTS\TRUE VOTER\Decision_Finger\bin\Debug\Decision_Finger.exe
+D:\PROJECTS\TRUE VOTER\Decision_Finger\bin\Debug\Decision_Finger.pdb
+D:\PROJECTS\TRUE VOTER\Decision_Finger\bin\Debug\Decision_Finger.xml
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.vbproj.AssemblyReference.cache
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.adminloginreg.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Form1.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Resources.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.purpose.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Registeration2.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Registration.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.regphno.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Results.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.signup.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Thanksforvoting.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Validation.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.Votingverification.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.voting_page.resources
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.vbproj.GenerateResource.cache
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.exe
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.xml
+D:\PROJECTS\TRUE VOTER\Decision_Finger\obj\Debug\Decision_Finger.pdb
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\bin\Debug\Decision_Finger.exe.config
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\bin\Debug\Decision_Finger.exe
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\bin\Debug\Decision_Finger.pdb
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\bin\Debug\Decision_Finger.xml
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.vbproj.AssemblyReference.cache
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.adminloginreg.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Form1.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Resources.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.purpose.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Registeration2.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Registration.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.regphno.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Results.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.signup.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Thanksforvoting.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Validation.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.Votingverification.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.voting_page.resources
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.vbproj.GenerateResource.cache
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.exe
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.xml
+D:\PROJECTS\True Voter (SOFTWARE)\True Voter\obj\Debug\Decision_Finger.pdb
+D:\PROJECTS\True Voter\True Voter\bin\Debug\Decision_Finger.exe.config
+D:\PROJECTS\True Voter\True Voter\bin\Debug\Decision_Finger.exe
+D:\PROJECTS\True Voter\True Voter\bin\Debug\Decision_Finger.pdb
+D:\PROJECTS\True Voter\True Voter\bin\Debug\Decision_Finger.xml
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.vbproj.AssemblyReference.cache
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.adminloginreg.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Form1.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Resources.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.purpose.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Registeration2.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Registration.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.regphno.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Results.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.signup.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Thanksforvoting.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Validation.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.Votingverification.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.voting_page.resources
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.vbproj.GenerateResource.cache
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.exe
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.xml
+D:\PROJECTS\True Voter\True Voter\obj\Debug\Decision_Finger.pdb
+D:\PROJECTS\Decision Finger\Decision Finger\bin\Debug\Decision_Finger.exe.config
+D:\PROJECTS\Decision Finger\Decision Finger\bin\Debug\Decision_Finger.exe
+D:\PROJECTS\Decision Finger\Decision Finger\bin\Debug\Decision_Finger.pdb
+D:\PROJECTS\Decision Finger\Decision Finger\bin\Debug\Decision_Finger.xml
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.vbproj.AssemblyReference.cache
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.adminloginreg.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Form1.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Resources.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.purpose.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Registeration2.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Registration.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.regphno.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Results.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.signup.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Thanksforvoting.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Validation.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.Votingverification.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.voting_page.resources
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.vbproj.GenerateResource.cache
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.exe
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.xml
+D:\PROJECTS\Decision Finger\Decision Finger\obj\Debug\Decision_Finger.pdb
